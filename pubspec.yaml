@@ -1,0 +1,43 @@
+name: akhir
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies: 
+  cloud_firestore: ^4.17.2
+  firebase_storage: ^11.7.4
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.30.1
+  firebase_auth: ^4.19.4
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  fluttertoast: ^8.2.5
+  google_sign_in: ^6.2.1
+  font_awesome_flutter: ^10.7.0
+  image_picker: ^1.1.1
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets:
+    - asset/Bg-Spalsh-Screen.png
+    - asset/bungaungu.png
+    - asset/Bg-Login-Register.png
+    - asset/login_logo.png
+    - asset/Bg-Home-Screen.png
+    - asset/Person.png
+fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Bold.ttf
+        
+          weight: 700
+   
+

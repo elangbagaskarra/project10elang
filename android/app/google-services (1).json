@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845204618443",
+    "project_id": "akhir-b8f15",
+    "storage_bucket": "akhir-b8f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845204618443:android:b323e8abfbec2158c46f4e",
+        "android_client_info": {
+          "package_name": "com.example.akhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSScxx7DhNLf0fi4X1mKX5oenDwbuuYxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
